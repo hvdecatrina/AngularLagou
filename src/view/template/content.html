@@ -1,0 +1,24 @@
+<div class="content">
+	<div class="info" ng-if="!isShow">
+		<span class="custom">10秒钟定制职位</span>
+		<a class="login" ui-sref = "login" href="#login" ><span class="text" ng-bind="goLogin">去登录</span></a>
+	</div>
+	<ul class="list">
+		<li ui-sref = "job({id:item.jobId})" class="list-item clearfix" ng-repeat = "item in list">
+			<img ng-src="image/companyLogo/{{item.companyLogo}}" alt="">
+			<div class="item-desc">
+				<h2 class="item-title" ng-bind = "item.company"></h2>
+				<p class="item-info clearfix">
+					<span class="post" ng-bind = "item.jobName + ' [ ' + item.city + ' ]'"></span>
+					<span class="salary" ng-bind = "item.salary"></span>
+				</p>
+				<p class="item-time" ng-bind = "item.time"></p>
+			</div>
+		</li>
+		<li class="more" ng-style="{display : isLoadShow ? 'block' : 'none'}" ng-click = "loadMore()">加载更多</li>
+	</ul>
+	<div class="copyright" ng-if="!isShow">
+		<p>找工作，上寻职网</p>
+		<div class="copyright-item"><a href="#header">回顶部</a></div>
+	</div>
+</div>

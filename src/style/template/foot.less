@@ -1,0 +1,49 @@
+.foot{
+	width : 100%;
+	.h(45);
+	.lh(45);
+	background: @bgColor1;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	z-index: 999;
+	display: -webkit-box;
+	.fs(16.768);
+	color : @textColor2;
+	border-top: 1px solid @borderTopColor;
+	div{
+		-webkit-box-flex : 1;
+		text-align: center;
+		.icon{
+			display: inline-block;
+			width: 18px;
+			height: 17px;
+		}	
+	}
+	.custom{
+		.icon{
+			background: url(../image/icon.png) -32px -1.5px no-repeat;
+			background-size: 250px 250px;
+		}
+	}
+	.search{
+		.icon{
+			background: url(../image/icon.png) -14px -2.5px no-repeat;
+			background-size: 250px 250px;
+		}
+	}
+	.mine{
+		.icon{
+			background: url(../image/icon.png) -54.5px -3px no-repeat;
+			background-size: 250px 250px;
+		}
+	}
+	.selected{
+		background: @bgColor2;
+		color : @themeColor;
+		.icon{
+			background: url(../image/icon.png) -32px -20px no-repeat;
+			background-size: 250px 250px;
+		}
+	}
+}

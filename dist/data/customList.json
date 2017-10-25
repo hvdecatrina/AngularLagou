@@ -1,0 +1,105 @@
+{
+    "errno" : 0,
+     "data":[
+                    {
+                        "positionId":2,
+                        "positionName":"Java高级开发工程师",
+                        "city":"上海",
+                        "createTime":"昨天 15:36",
+                        "salary":"15k-18k",
+                        "companyId":1,
+                        "companyLogo":"Cgp3O1fs30WAHeOxAAAruuxujio663.jpg",
+                        "companyName":"君学中国"
+                    },
+                    {
+                        "positionId":6,
+                        "positionName":"线下物料设计",
+                        "city":"上海",
+                        "createTime":"今天 11:21",
+                        "salary":"6k-10k",
+                        "companyId":1,
+                        "companyLogo":"Cgp3O1fs30WAHeOxAAAruuxujio663.jpg",
+                        "companyName":"君学中国"
+                    },
+                    {
+                        "positionId":24,
+                        "positionName":"销售经理",
+                        "city":"上海",
+                        "createTime":"昨天 16:39",
+                        "salary":"10k-20k",
+                        "companyId":2,
+                        "companyLogo":"Cgp3O1fOXeaAWuXlAALKBNo1mJ4903.JPG",
+                        "companyName":"点内生物"
+                    },
+                    {
+                        "positionId":29,
+                        "positionName":"UI设计师J10528",
+                        "city":"北京",
+                        "createTime":"昨天 16:39",
+                        "salary":"20k-30k",
+                        "companyId":3,
+                        "companyLogo":"Cgo8PFWfNL6AR5rQAAAe87oYrEc761.png",
+                        "companyName":"思源科技"
+                    },
+                    {
+                        "positionId":40,
+                        "positionName":"测试工程师",
+                        "city":"上海",
+                        "createTime":"昨天 16:34",
+                        "salary":"6k-12k",
+                        "companyId":4,
+                        "companyLogo":"CgqKkVbNX0aAeAGbAABVoNBGn2E537.jpg",
+                        "companyName":"壹球"
+                    },
+                    {
+                        "positionId":44,
+                        "positionName":"需求分析工程师（上海 金融行业）",
+                        "city":"成都",
+                        "createTime":"今天 14:38",
+                        "salary":"8k-15k",
+                        "companyId":5,
+                        "companyLogo":"CgqKkVbnZ52AYLVRAALVGclrAtY201.png",
+                        "companyName":"赢时胜软件"
+                    },
+                    {
+                        "positionId":55,
+                        "positionName":"财务会计",
+                        "city":"北京",
+                        "createTime":"昨天 16:31",
+                        "salary":"8k-12k",
+                        "companyId":6,
+                        "companyLogo":"CgpFT1kRUNqAPLuIAAAl2s0iy8Y137.png",
+                        "companyName":"勺子课堂"
+                    },
+                    {
+                        "positionId":57,
+                        "positionName":"语音识别算法研究员",
+                        "city":"北京",
+                        "createTime":"今天 09:57",
+                        "salary":"25k-50k",
+                        "companyId":7,
+                        "companyLogo":"CgqKkVghd2aAIhm3AABeYT_-upQ128.jpg",
+                        "companyName":"物灵"
+                    },
+                    {
+                        "positionId":69,
+                        "positionName":"行政人事主管",
+                        "city":"西安",
+                        "createTime":"昨天 16:28",
+                        "salary":"3k-5k",
+                        "companyId":8,
+                        "companyLogo":"Cgp3O1czJuOAWdhgAAAvfcRV2jA114.png",
+                        "companyName":"西安新奇迹"
+                    },
+                    {
+                        "positionId":72,
+                        "positionName":"SEM / 百度竞价专员",
+                        "city":"广州",
+                        "createTime":"昨天 16:26",
+                        "salary":"5k-8k",
+                        "companyId":9,
+                        "companyLogo":"CgYXBlWeFXSADJ7bAAEQvxLRhtw828.jpg",
+                        "companyName":"海龙国际",
+                    }
+    ]
+}

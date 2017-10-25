@@ -1,0 +1,46 @@
+<div class="sContent">
+	<div class="searchContent">
+		<div class="searchBlock clearfix">
+			<div ng-click="showCityList()" class="lbtn">
+				<span class="city" ng-bind = "cityName"></span>
+				<span class="cityicon"></span>
+			</div>
+			<div class="rinput clearfix">
+				<input ng-model="val" class="s-input" type="text" placeholder="搜索职位或公司">
+				<span class="search" ng-click = "search()"><em class="s-icon"></em></span>
+			</div>
+		</div>
+		<div class="searchList">
+			<ul id="histoty" class="histoty" ng-style = "{ display : isHistoryShow ? 'block' : 'none'}">
+				<li ng-click = "hisClick(item)" class='h-item' ng-repeat="item in history">
+					<span class='htext' ng-bind="item"></span>
+					<div class='del' ng-click = "delHis($event,item)">
+						<span class='delicon'></span>
+					</div>
+				</li>
+			</ul>
+			<div style="display: none" class="tips" ng-style = "{ display : isJobShow ? 'block' : 'none'}">将搜索地区和关键词设为定制条件</div>
+			<ul class="filter-list">
+				<li class="empty" ng-show="isEmpty">
+					<span class="icon"></span>
+					<span class="text">寻职上暂时没有对应的职位</span>
+				</li>
+				<div app-content ng-style = "{ display : isJobShow ? 'block' : 'none'}"></div>
+			</ul>
+		</div>
+	</div>
+	<div id="city-content" class="city-content" ng-style = "{ display : isCityShow ? 'block' : 'none'}">
+		<div class="chead">
+			寻职网
+			<div class="left" ng-click = "hideCityList()">
+				<span class="corner"></span>
+			</div>
+		</div>
+		<div class="city-list" ng-repeat="item in city">
+			<div class="city-head" ng-bind = "item.head"></div>
+			<ul class="ul-city clearfix">
+				<li ng-click = getCity(it) ng-repeat="it in item.cityList" class="city-item" ng-bind="it"></li>
+			</ul>
+		</div>
+	</div>
+</div>

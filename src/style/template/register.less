@@ -1,0 +1,159 @@
+.register-body{
+	width: 100%;
+	height: 100%;
+	font-family: '黑体';
+	background: -webkit-linear-gradient(135deg,#029253,#00887b);
+	.register-form{
+		width: 90%;
+		padding: 20px 0;
+		margin: 0 auto;
+		.tips{
+			position: absolute;
+		    right: 5%;
+		    top: 36%;
+		   	.fs(12);
+		    color: @tipsColor;
+		    .lh(14.4);
+		}
+		.register{
+			.usename{
+				position: relative;				
+			}			
+			.btn{
+				width: 90%;
+				border: 0;
+				outline: 0;
+				font: 16px '黑体';
+				color: @textColor1;
+				background: @defaultColor;
+				padding: 6% 5%;
+				border-radius: 5px;
+			}
+			.new-register{			
+				.code{
+					.codep{
+						position: relative;
+						.vcode{
+							margin: 10px 0;
+						}
+					}					
+					.yzm-img{
+					   	.w(113);
+					    .h(46);
+						margin: 0 0 20px;
+						overflow: hidden;
+						float: left;
+						.lh(42);
+						background: @defaultColor;
+						text-align: center;
+						.fs(24);
+						font-weight: bold;
+						color: #aaa;
+					}
+					a{
+						margin-left: 20px;
+						.fs(14);
+						color: @textColor8;
+						text-decoration: none;
+						em{
+							color: @textColor9;
+							font-style: normal;
+							.lh(42);
+							cursor: pointer;
+							text-decoration: underline;
+						}
+					}
+				}
+				.msgYzm{
+					position: relative;
+					.tips{
+						right: 22%;
+						top: 45%;
+					}
+					.btm{
+						margin: 0 0 10px;
+					}
+					.getYzm{
+						    position: absolute;
+						    .w(53);
+						    right: 5%;
+						    bottom: 30%;
+						   .fs(13);
+						    padding: 4px 8px;
+						    text-align: center;
+						    border-radius: 2px;
+						    border: 1px solid @borderLeftColor;
+						    background-color: @defaultColor;
+						    color: @borderLeftColor;
+						    .lh(16);
+					}
+					.btn-disabled{
+					    border-color: @borderLeftColor;
+    					color: @borderLeftColor;
+					}
+					.btn-active{
+					    border-color: @borderRightColor;
+    					color: @borderRightColor;
+					}
+				}
+			}
+			.reg-psw{
+				position: relative;
+				.r-psw{
+					margin: 10px 0;
+				}
+				.eye{
+					width: 20px;
+					height: 13px;
+					background: url(../image/eye.png) 0 0 no-repeat;
+					background-size: 20px 30px;
+					position: absolute;
+					top: 50%;
+					right: 5%;
+					margin-top: -6.5px;
+					-moz-transition: transform .3s linear 0s;
+					-webkit-transition: transform .3s linear 0s;
+					-o-transition: transform .3s linear 0s;
+					transition: transform .3s linear 0s;
+				}
+				.tips{
+					right: 15%;
+				}
+			}
+			.submit{
+				.sbm-btn{
+					display: block;
+				    width: 100%;
+				    .fs(20);
+				    color: @defaultColor;
+				    text-align: center;
+				    background: @bgColor8;
+				    -webkit-box-shadow: 0 2px 0 @bgColor9;
+				    -moz-box-shadow: 0 2px 0 @bgColor9;
+				    box-shadow: 0 2px 0 @bgColor9;
+				    -moz-border-radius: 5px;
+				    -webkit-border-radius: 5px;
+				    border-radius: 5px;
+				    margin: 20px 0;
+				    padding: 5%;
+				}
+			}
+		}
+	}
+	.reg-test{
+		color: @textColor8;
+		.fs(13);
+		.lh(16);
+	}
+	.login{
+		display: block;
+		width: 90%;
+		.fs(20);
+		color: @textColor8;
+		text-align: center;
+		border: 1px solid @textColor8;
+		border-radius: 5px;
+		margin: 8px 0;
+		padding: 5%;
+	}
+}

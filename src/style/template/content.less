@@ -1,0 +1,97 @@
+.content{
+	.mb(45);
+	.info{
+		.h(43);
+		.lh(43);
+		color : @textColor3;
+		.fs(14.672);
+		padding: 0 15px;
+		border-bottom: 1px solid @borderTopColor;
+		position: relative;
+		.custom{
+			overflow: hidden;
+			display: block;
+			.mr(100);
+		}
+		.login{
+			position: absolute;
+			right: 15px;
+			top: 0;
+			.mt(6);
+			padding: 0 20px;
+			background: @bgColor3;
+			.h(30);
+			.lh(30);
+			color : @themeColor;
+			border-radius: 15px;
+		}
+	}
+	.list{
+		.list-item{
+			padding: 14px;
+			border-bottom: 1px solid @borderTopColor;
+			img{
+				float: left;
+				width: 60px;
+				height: 60px;
+			}
+			.item-desc{
+				margin-left: 70px;
+				.h(62);
+				color : @textColor1;
+				.item-title{
+					.fs(16.768);
+					margin-bottom: 6px;
+					text-overflow: ellipsis;
+					white-space: nowrap;
+					overflow: hidden;
+					width: 80%;
+				}
+				.item-info{
+					margin-bottom: 6px;
+					.h(15);
+					.lh(15);
+					.post{
+						.fs(12.576);
+						width: 60%;
+						float: left;
+						display: inline-block;
+						text-overflow: ellipsis;
+						white-space: nowrap;
+						overflow: hidden;
+					}
+					.salary{
+						float: right;
+						.fs(16.768);
+						color : @themeColor;
+					}
+				}
+				.item-time{
+					.fs(12);
+					color : @textColor4 ;
+				}
+			}
+		}
+		.more{
+	    	.h(50);
+	    	.lh(50);
+	    	.fs(15.72);
+		    text-align: center;
+		    background-color: @bgColor5;
+		}
+	}
+	.copyright{
+		text-align: center;
+		.fs(12);
+		margin-top: 30px;
+		padding-bottom: 40px;
+		color: @textColor1;
+		.copyright-item{
+			.h(32);
+			.lh(32);
+			a{
+				color: @textColor1;
+			}
+		}
+	}
+}

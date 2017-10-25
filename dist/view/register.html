@@ -1,0 +1,38 @@
+<div class="register-body">
+	<div class="register-form">
+		<form class="register" name = "rForm" >
+			<div class="new-register">
+				<div class="usename">
+					<input ng-model="user.phone" name = "phone" type="text" class="phone btn" placeholder="手机号" ng-required="true" ng-pattern = "/^1[3|4|5|8][0-9]\d{8}$/">
+					<span class="tips" ng-show="rForm.$submitted && (!rForm.phone.$dirty || rForm.phone.$viewValue == '')">请填写手机号</span>
+					<span class="tips" ng-show="rForm.$submitted && rForm.phone.$dirty && rForm.phone.$invalid && rForm.phone.$viewValue != ''">手机号格式错误</span>
+				</div>				
+				<div class="code">
+					<div class="codep">
+						<input ng-model= "user.vcode" type="text" name="vcode" class = "vcode btn" placeholder="请证明你不是机器人" ng-required="true" ng-pattern = "/^[a-zA-Z0-9]{4}$/">
+						<span class="tips" ng-show="rForm.$submitted && (!rForm.vcode.$dirty || rForm.vcode.$viewValue == '')">请输入验证码</span>
+						<span class="tips" ng-show="rForm.$submitted && rForm.vcode.$dirty && rForm.vcode.$invalid && rForm.vcode.$viewValue != ''">请输入正确的验证码</span>
+						<span class="tips" ng-show="isYzmTrue">验证码不正确</span>
+					</div>					
+					<div ng-bind="yzmCode" class = "yzm-img"></div>
+					<a ng-click="changeYzm()">看不清楚，<em>换一张</em></a>
+				</div>
+				<div class="msgYzm">
+					<input name = "pyzm" ng-model = "user.pyzm" type = "text" class="btm btn" placeholder="短信验证码" ng-required = "true">
+					<span class="tips" ng-show="rForm.$submitted && (!rForm.pyzm.$dirty || rForm.pyzm.$viewValue == '')">请输入验证码</span>
+					<input type = "button" class="getYzm btn" ng-class="{'btn-active' : rForm.phone.$valid , 'btn-disabled' : rForm.phone.$invalid}" value="获取" ng-click="getPhoneYzm()">
+				</div>	
+			</div>						
+			<div class="reg-psw">
+				<input autocomplete="new-password" ng-model = "user.psw" name = "psw" type="password" class = "r-psw btn" placeholder="设置6-16位密码" ng-required = "true" ng-minlength = "6" ng-maxlength = "16">
+				<i class="eye"></i>
+				<span class="tips" ng-show="rForm.$submitted && rForm.psw.$invalid">6-16位密码</span>
+			</div>
+			<div class="submit">
+				<input type="button" class = "sbm-btn" value = "注册" ng-click = "signup(rForm)">
+			</div>	
+		</form>
+		<div class="reg-test">已有帐号？</div>
+		<a href="" class = "login" ui-sref="login">登录</a>
+	</div>
+</div>

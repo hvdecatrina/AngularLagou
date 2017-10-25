@@ -1,0 +1,1690 @@
+{
+    "errno":0,
+    "data":[
+        {
+            "companyId":1,
+            "companyName":"君学中国",
+            "city":"上海",
+            "companyLogo":"Cgp3O1fs30WAHeOxAAAruuxujio663.jpg",
+            "companyDesc":"文化娱乐 / 不需要融资 / 150-500人",
+            "jobCategory":[
+                {
+                    "id":0,
+                    "type":"技术",
+                    "num":4,
+                    "typelist":[
+                        {
+                            "jobId":1,
+                            "jobName":"JAVA开发工程师",
+                            "time":"昨天 15:39",
+                            "salary":"10k-14k"
+                        },
+                        {
+                            "jobId":2,
+                            "jobName":"Java高级开发工程师",
+                            "time":"昨天 15:36",
+                            "salary":"15k-18k"
+                        },
+                        {
+                            "jobId":3,
+                            "jobName":"H5前端工程师",
+                            "time":"昨天 11:40",
+                            "salary":"8k-12k"
+                        },
+                        {
+                            "jobId":4,
+                            "jobName":"功能测试工程师",
+                            "time":"昨天 11:40",
+                            "salary":"6k-8k"
+                        }
+                    ]
+                },
+                {
+                    "id":1,
+                    "type":"产品",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                },
+                {
+                    "id":2,
+                    "type":"设计",
+                    "num":5,
+                    "typelist":[
+                        {
+                            "jobId":5,
+                            "jobName":"平面设计",
+                            "time":"今天 11:21",
+                            "salary":"6k-10k"
+                        },
+                        {
+                            "jobId":6,
+                            "jobName":"线下物料设计",
+                            "time":"今天 11:21",
+                            "salary":"6k-10k"
+                        },
+                        {
+                            "jobId":7,
+                            "jobName":"广告设计",
+                            "time":"今天 11:21",
+                            "salary":"5k-10k"
+                        },
+                        {
+                            "jobId":8,
+                            "jobName":"平面设计师/线下",
+                            "time":"今天 09:36",
+                            "salary":"6k-10k"
+                        },
+                        {
+                            "jobId":9,
+                            "jobName":"平面设计师",
+                            "time":"今天 09:36",
+                            "salary":"7k-12k"
+                        }
+                    ]
+                },
+                {
+                    "id":3,
+                    "type":"运营",
+                    "num":4,
+                    "typelist":[
+                        {
+                            "jobId":10,
+                            "jobName":"新媒体运营",
+                            "time":"今天 11:21",
+                            "salary":"5k-10k"
+                        },
+                        {
+                            "jobId":11,
+                            "jobName":"新媒体运营",
+                            "time":"今天 11:40",
+                            "salary":"6k-8k"
+                        },
+                        {
+                            "jobId":12,
+                            "jobName":"资深编辑",
+                            "time":"2017-09-15",
+                            "salary":"8k-12k"
+                        },
+                        {
+                            "jobId":13,
+                            "jobName":"户外编辑",
+                            "time":"2017-09-15",
+                            "salary":"6k-8k"
+                        }
+                    ]
+                },
+                {
+                    "id":4,
+                    "type":"市场与销售",
+                    "num":3,
+                    "typelist":[
+                        {
+                            "jobId":14,
+                            "jobName":"大区销售",
+                            "time":"今天 11:21",
+                            "salary":"4k-8k"
+                        },
+                        {
+                            "jobId":15,
+                            "jobName":"客户代表",
+                            "time":"今天 11:21",
+                            "salary":"4k-8k"
+                        },
+                        {
+                            "jobId":16,
+                            "jobName":"销售顾问",
+                            "time":"今天 11:21",
+                            "salary":"5k-10k"
+                        }
+                    ]
+                },
+                {
+                    "id":5,
+                    "type":"职能",
+                    "num":3,
+                    "typelist":[
+                        {
+                            "jobId":17,
+                            "jobName":"主办会计",
+                            "time":"今天 11:21",
+                            "salary":"8k-12k"
+                        },
+                        {
+                            "jobId":18,
+                            "jobName":"总账会计",
+                            "time":"今天 09:36",
+                            "salary":"8k-12k"
+                        },
+                        {
+                            "jobId":19,
+                            "jobName":"招聘专员",
+                            "time":"今天 11:40",
+                            "salary":"5k-8k"
+                        }
+                    ]
+                },
+                {
+                    "id":6,
+                    "type":"金融",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                }
+            ]
+        },
+        {
+            "companyId":2,
+            "companyName":"点内生物",
+            "city":"上海",
+            "companyLogo":"Cgp3O1fOXeaAWuXlAALKBNo1mJ4903.JPG",
+            "companyDesc":"医疗健康,移动互联网 / 天使轮 / 15-50人",
+            "jobCategory":[
+                {
+                    "id":0,
+                    "type":"技术",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                },
+                {
+                    "id":1,
+                    "type":"产品",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":20,
+                            "jobName":"项目经理",
+                            "salary":"10k-15k",
+                            "time":"昨天 16:39"
+                        },
+                        {
+                            "jobId":21,
+                            "jobName":"数据信息员",
+                            "salary":"4k-5k",
+                            "time":"昨天 16:39"
+                        }
+                    ]
+                },
+                {
+                    "id":2,
+                    "type":"设计",
+                    "num":1,
+                    "typelist":[
+                        {
+                            "jobId":22,
+                            "jobName":"UI设计师",
+                            "salary":"5k-10k",
+                            "time":"昨天 16:39"
+                        }
+                    ]
+                },
+                {
+                    "id":3,
+                    "type":"运营",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                },
+                {
+                    "id":4,
+                    "type":"市场与销售",
+                    "num":1,
+                    "typelist":[
+                        {
+                            "jobId":23,
+                            "jobName":"销售经理",
+                            "salary":"10k-20k",
+                            "time":"昨天 16:39"
+                        }
+                    ]
+                },
+                {
+                    "id":5,
+                    "type":"职能",
+                    "num":1,
+                    "typelist":[
+                        {
+                            "jobId":24,
+                            "jobName":"行政助理",
+                            "salary":"4k-6k",
+                            "time":"昨天 16:39"
+                        }
+                    ]
+                },
+                {
+                    "id":6,
+                    "type":"金融",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                }
+            ]
+        },
+        {
+            "companyId":3,
+            "companyName":"思源科技",
+            "city":"北京",
+            "companyLogo":"Cgo8PFWfNL6AR5rQAAAe87oYrEc761.png",
+            "companyDesc":"移动互联网,社交网络 / 不需要融资 / 2000人以上",
+            "jobCategory":[
+                {
+                    "id":0,
+                    "type":"技术",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":25,
+                            "jobName":"架构师",
+                            "salary":"30k-50k",
+                            "time":"今天 09:21"
+                        },
+                        {
+                            "jobId":26,
+                            "jobName":"JAVA技术专家",
+                            "salary":"30k-50k",
+                            "time":"今天 09:21"
+                        }
+                    ]
+                },
+                {
+                    "id":1,
+                    "type":"产品",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":27,
+                            "jobName":"售前咨询顾问",
+                            "salary":"10k-20k",
+                            "time":"今天 09:18"
+                        },
+                        {
+                            "jobId":28,
+                            "jobName":"产品经理",
+                            "salary":"15k-25k",
+                            "time":"今天 09:18"
+                        }
+                    ]
+                },
+                {
+                    "id":2,
+                    "type":"设计",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":29,
+                            "jobName":"UI设计师J10528",
+                            "salary":"20k-30k",
+                            "time":"昨天 16:39"
+                        },
+                        {
+                            "jobId":30,
+                            "jobName":"交互设计师J10332",
+                            "salary":"20k-30k",
+                            "time":"昨天 16:39"
+                        }
+                    ]
+                },
+                {
+                    "id":3,
+                    "type":"运营",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":31,
+                            "jobName":"BD拓展经理",
+                            "salary":"12k-18k",
+                            "time":"昨天 17:03"
+                        },
+                        {
+                            "jobId":32,
+                            "jobName":"内容运营经理(J10429)",
+                            "salary":"18k-25k",
+                            "time":"昨天 16:39"
+                        }
+                    ]
+                },
+                {
+                    "id":4,
+                    "type":"市场与销售",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":33,
+                            "jobName":"销售经理",
+                            "salary":"10k-20k",
+                            "time":"今天 09:18"
+                        },
+                        {
+                            "jobId":34,
+                            "jobName":"行政企划经理(J10374)",
+                            "salary":"8k-14k",
+                            "time":"2017-09-18"
+                        }
+                    ]
+                },
+                {
+                    "id":5,
+                    "type":"职能",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":35,
+                            "jobName":"人力资源副总经理",
+                            "salary":"40k-50k",
+                            "time":"今天 17:07"
+                        },
+                        {
+                            "jobId":36,
+                            "jobName":"产品vpJ10446",
+                            "salary":"60k-90k",
+                            "time":"今天 17:06"
+                        }
+                    ]
+                },
+                {
+                    "id":6,
+                    "type":"金融",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":37,
+                            "jobName":"投融资经理J10213",
+                            "salary":"15k-25k",
+                            "time":"2017-09-18"
+                        },
+                        {
+                            "jobId":38,
+                            "jobName":"投资助理（校招）J10568",
+                            "salary":"8k-15k",
+                            "time":"2017-09-18"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "companyId":4,
+            "companyName":"壹球",
+            "city":"上海",
+            "companyLogo":"CgqKkVbNX0aAeAGbAABVoNBGn2E537.jpg",
+            "companyDesc":"移动互联网,O2O / 天使轮 / 15-50人",
+            "jobCategory":[
+                {
+                    "id":0,
+                    "type":"技术",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":39,
+                            "jobName":"Web前端开发工程师",
+                            "salary":"10k-20k",
+                            "time":"昨天 16:34"
+                        },
+                        {
+                            "jobId":40,
+                            "jobName":"测试工程师",
+                            "salary":"6k-12k",
+                            "time":"昨天 16:34"
+                        }
+                    ]
+                },
+                {
+                    "id":1,
+                    "type":"产品",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                },
+                {
+                    "id":2,
+                    "type":"设计",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                },
+                {
+                    "id":3,
+                    "type":"运营",
+                    "num":1,
+                    "typelist":[
+                        {
+                            "jobId":41,
+                            "jobName":"新媒体运营",
+                            "salary":"5k以上",
+                            "time":"2017-09-18"
+                        }
+                    ]
+                },
+                {
+                    "id":4,
+                    "type":"市场与销售",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                },
+                {
+                    "id":5,
+                    "type":"职能",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                },
+                {
+                    "id":6,
+                    "type":"金融",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                }
+            ]
+        },
+        {
+            "companyId":5,
+            "companyName":"赢时胜软件",
+            "city":"成都",
+            "companyLogo":"CgqKkVbnZ52AYLVRAALVGclrAtY201.png",
+            "companyDesc":"金融 / 上市公司 / 500-2000人",
+            "jobCategory":[
+                {
+                    "id":0,
+                    "type":"技术",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":42,
+                            "jobName":"高级运维工程师",
+                            "salary":"10k-15k",
+                            "time":"今天 14:38"
+                        },
+                        {
+                            "jobId":43,
+                            "jobName":"中级软件测试工程师",
+                            "salary":"8k-10k",
+                            "time":"今天 14:38"
+                        }
+                    ]
+                },
+                {
+                    "id":1,
+                    "type":"产品",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":44,
+                            "jobName":"需求分析工程师（上海 金融行业）",
+                            "salary":"8k-15k",
+                            "time":"今天 14:38"
+                        },
+                        {
+                            "jobId":45,
+                            "jobName":"中级软件设计工程师",
+                            "salary":"8k-15k",
+                            "time":"今天 14:09"
+                        }
+                    ]
+                },
+                {
+                    "id":2,
+                    "type":"设计",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                },
+                {
+                    "id":3,
+                    "type":"运营",
+                    "num":1,
+                    "typelist":[
+                        {
+                            "jobId":46,
+                            "jobName":"客服经理",
+                            "salary":"4k-8k",
+                            "time":"今天 09:21"
+                        }
+                    ]
+                },
+                {
+                    "id":4,
+                    "type":"市场与销售",
+                    "num":1,
+                    "typelist":[
+                        {
+                            "jobId":47,
+                            "jobName":"商务助理",
+                            "salary":"6k-10k",
+                            "time":"昨天 10:37"
+                        }
+                    ]
+                },
+                {
+                    "id":5,
+                    "type":"职能",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":48,
+                            "jobName":"核算会计",
+                            "salary":"4k-7k",
+                            "time":"今天 14:38"
+                        },
+                        {
+                            "jobId":49,
+                            "jobName":"核算会计",
+                            "salary":"4k-7k",
+                            "time":"今天 14:38"
+                        }
+                    ]
+                },
+                {
+                    "id":6,
+                    "type":"金融",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":50,
+                            "jobName":"核算会计",
+                            "salary":"4k-7k",
+                            "time":"今天 09:21"
+                        },
+                        {
+                            "jobId":51,
+                            "jobName":"金融分析师",
+                            "salary":"8k-10k",
+                            "time":"今天 09:21"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "companyId":6,
+            "companyName":"勺子课堂",
+            "city":"北京",
+            "companyLogo":"CgpFT1kRUNqAPLuIAAAl2s0iy8Y137.png",
+            "companyDesc":"移动互联网,O2O / A轮 / 15-50人",
+            "jobCategory":[
+                {
+                    "id":0,
+                    "type":"技术",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                },
+                {
+                    "id":1,
+                    "type":"产品",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":52,
+                            "jobName":"课程研发专员",
+                            "salary":"8k-12k",
+                            "time":"昨天 16:31"
+                        },
+                        {
+                            "jobId":53,
+                            "jobName":"教务专员",
+                            "salary":"5k-6k",
+                            "time":"昨天 16:31"
+                        }
+                    ]
+                },
+                {
+                    "id":2,
+                    "type":"设计",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                },
+                {
+                    "id":3,
+                    "type":"运营",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                },
+                {
+                    "id":4,
+                    "type":"市场与销售",
+                    "num":1,
+                    "typelist":[
+                        {
+                            "jobId":54,
+                            "jobName":"渠道销售经理",
+                            "salary":"10k-15k",
+                            "time":"昨天 16:31"
+                        }
+                    ]
+                },
+                {
+                    "id":5,
+                    "type":"职能",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":55,
+                            "jobName":"财务会计",
+                            "salary":"8k-12k",
+                            "time":"昨天 16:31"
+                        },
+                        {
+                            "jobId":56,
+                            "jobName":"行政经理/CEO助理",
+                            "salary":"7k-10k",
+                            "time":"昨天 16:30"
+                        }
+                    ]
+                },
+                {
+                    "id":6,
+                    "type":"金融",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                }
+            ]
+        },
+        {
+            "companyId":7,
+            "companyName":"物灵",
+            "city":"北京",
+            "companyLogo":"CgqKkVghd2aAIhm3AABeYT_-upQ128.jpg",
+            "companyDesc":"硬件,移动互联网 / 不需要融资 / 150-500人",
+            "jobCategory":[
+                {
+                    "id":0,
+                    "type":"技术",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":57,
+                            "jobName":"语音识别算法研究员",
+                            "salary":"25k-50k",
+                            "time":"今天 09:57"
+                        },
+                        {
+                            "jobId":58,
+                            "jobName":"图像识别算法工程师",
+                            "salary":"20k-40k",
+                            "time":"今天 09:57"
+                        }
+                    ]
+                },
+                {
+                    "id":1,
+                    "type":"产品",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":59,
+                            "jobName":"高级产品经理",
+                            "salary":"20k-35k",
+                            "time":"今天 09:57"
+                        },
+                        {
+                            "jobId":60,
+                            "jobName":"产品经理（数据分析）",
+                            "salary":"15k-20k",
+                            "time":"今天 09:57"
+                        }
+                    ]
+                },
+                {
+                    "id":2,
+                    "type":"设计",
+                    "num":1,
+                    "typelist":[
+                        {
+                            "jobId":61,
+                            "jobName":"美术",
+                            "salary":"15k-25k",
+                            "time":"今天 09:57"
+                        }
+                    ]
+                },
+                {
+                    "id":3,
+                    "type":"运营",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":62,
+                            "jobName":"客服代表",
+                            "salary":"4k-6k",
+                            "time":"今天 09:57"
+                        },
+                        {
+                            "jobId":63,
+                            "jobName":"客服代表",
+                            "salary":"4k-6k",
+                            "time":"今天 09:57"
+                        }
+                    ]
+                },
+                {
+                    "id":4,
+                    "type":"市场与销售",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":64,
+                            "jobName":"渠道拓展经理",
+                            "salary":"10k-15k",
+                            "time":"今天 09:57"
+                        },
+                        {
+                            "jobId":65,
+                            "jobName":"BD经理",
+                            "salary":"10k-15k",
+                            "time":"今天 09:57"
+                        }
+                    ]
+                },
+                {
+                    "id":5,
+                    "type":"职能",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":66,
+                            "jobName":"行政专员",
+                            "salary":"4k-6k",
+                            "time":"今天 14:39"
+                        },
+                        {
+                            "jobId":67,
+                            "jobName":"法务主管",
+                            "salary":"6k-8k",
+                            "time":"今天 09:57"
+                        }
+                    ]
+                },
+                {
+                    "id":6,
+                    "type":"金融",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                }
+            ]
+        },
+        {
+            "companyId":8,
+            "companyName":"西安新奇迹",
+            "city":"西安",
+            "companyLogo":"Cgp3O1czJuOAWdhgAAAvfcRV2jA114.png",
+            "companyDesc":"电子商务,移动互联网 / 不需要融资 / 50-150人",
+            "jobCategory":[
+                {
+                    "id":0,
+                    "type":"技术",
+                    "num":1,
+                    "typelist":[
+                        {
+                            "jobId":68,
+                            "jobName":"JAVA开发工程师",
+                            "salary":"5k-8k",
+                            "time":"昨天 16:28"
+                        }
+                    ]
+                },
+                {
+                    "id":1,
+                    "type":"产品",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                },
+                {
+                    "id":2,
+                    "type":"设计",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                },
+                {
+                    "id":3,
+                    "type":"运营",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                },
+                {
+                    "id":4,
+                    "type":"市场与销售",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                },
+                {
+                    "id":5,
+                    "type":"职能",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":69,
+                            "jobName":"行政人事主管",
+                            "salary":"3k-5k",
+                            "time":"昨天 16:28"
+                        },
+                        {
+                            "jobId":70,
+                            "jobName":"行政人事专员",
+                            "salary":"3k-5k",
+                            "time":"昨天 16:28"
+                        }
+                    ]
+                },
+                {
+                    "id":6,
+                    "type":"金融",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                }
+            ]
+        },
+        {
+            "companyId":9,
+            "companyName":"海龙国际",
+            "city":"广州",
+            "companyLogo":"CgYXBlWeFXSADJ7bAAEQvxLRhtw828.jpg",
+            "companyDesc":"电子商务,其他 / 不需要融资 / 50-150人",
+            "jobCategory":[
+                {
+                    "id":0,
+                    "type":"技术",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                },
+                {
+                    "id":1,
+                    "type":"产品",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                },
+                {
+                    "id":2,
+                    "type":"设计",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                },
+                {
+                    "id":3,
+                    "type":"运营",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":71,
+                            "jobName":"网络推广",
+                            "salary":"3k-5k",
+                            "time":"昨天 16:26"
+                        },
+                        {
+                            "jobId":72,
+                            "jobName":"SEM / 百度竞价专员",
+                            "salary":"5k-8k",
+                            "time":"昨天 16:26"
+                        }
+                    ]
+                },
+                {
+                    "id":4,
+                    "type":"市场与销售",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":73,
+                            "jobName":"外贸销售",
+                            "salary":"3k-5k",
+                            "time":"昨天 16:26"
+                        },
+                        {
+                            "jobId":74,
+                            "jobName":"销售代表/商务专员/销售客服",
+                            "salary":"6k-10k",
+                            "time":"昨天 16:26"
+                        }
+                    ]
+                },
+                {
+                    "id":5,
+                    "type":"职能",
+                    "num":1,
+                    "typelist":[
+                        {
+                            "jobId":75,
+                            "jobName":"行政专员/行政前台",
+                            "salary":"3k-5k",
+                            "time":"昨天 16:30"
+                        }
+                    ]
+                },
+                {
+                    "id":6,
+                    "type":"金融",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                }
+            ]
+        },
+        {
+            "companyId":10,
+            "companyName":"正麟殿",
+            "city":"北京",
+            "companyLogo":"CgpFT1l27DWAOyAaAAAbCHGmUwo587.gif",
+            "companyDesc":"移动互联网,电子商务 / A轮 / 50-150人",
+            "jobCategory":[
+                {
+                    "id":0,
+                    "type":"技术",
+                    "num":1,
+                    "typelist":[
+                        {
+                            "jobId":76,
+                            "jobName":"全栈开发工程师",
+                            "salary":"15k-30k",
+                            "time":"昨天 16:33"
+                        }
+                    ]
+                },
+                {
+                    "id":1,
+                    "type":"产品",
+                    "num":1,
+                    "typelist":[
+                        {
+                            "jobId":77,
+                            "jobName":"产品设计师",
+                            "salary":"5k-10k",
+                            "time":"昨天 16:33"
+                        }
+                    ]
+                },
+                {
+                    "id":2,
+                    "type":"设计",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                },
+                {
+                    "id":3,
+                    "type":"运营",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":78,
+                            "jobName":"文案策划",
+                            "salary":"5k-8k",
+                            "time":"昨天 16:33"
+                        },
+                        {
+                            "jobId":79,
+                            "jobName":"电商运营总监",
+                            "salary":"8k-10k",
+                            "time":"昨天 16:33"
+                        }
+                    ]
+                },
+                {
+                    "id":4,
+                    "type":"市场与销售",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":80,
+                            "jobName":"市场运营经理/主管",
+                            "salary":"8k-10k",
+                            "time":"昨天 16:33"
+                        },
+                        {
+                            "jobId":81,
+                            "jobName":"销售客服",
+                            "salary":"4k-8k",
+                            "time":"昨天 16:33"
+                        }
+                    ]
+                },
+                {
+                    "id":5,
+                    "type":"职能",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                },
+                {
+                    "id":6,
+                    "type":"金融",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                }
+            ]
+        },
+        {
+            "companyId":11,
+            "companyName":"广州个品网络科技有限公司",
+            "city":"广州",
+            "companyLogo":"CgpEMlkSjN-ACz8-AAAlg08Jx9o903.jpg",
+            "companyDesc":"电子商务 / A轮 / 15-50人",
+            "jobCategory":[
+                {
+                    "id":0,
+                    "type":"技术",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                },
+                {
+                    "id":1,
+                    "type":"产品",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                },
+                {
+                    "id":2,
+                    "type":"设计",
+                    "num":1,
+                    "typelist":[
+                        {
+                            "jobId":82,
+                            "jobName":"资深设计",
+                            "salary":"6k-8k",
+                            "time":"昨天 16:22"
+                        }
+                    ]
+                },
+                {
+                    "id":3,
+                    "type":"运营",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":83,
+                            "jobName":"电商客服",
+                            "salary":"3k-5k",
+                            "time":"昨天 16:23"
+                        },
+                        {
+                            "jobId":84,
+                            "jobName":"新媒体文案",
+                            "salary":"4k-7k",
+                            "time":"昨天 16:22"
+                        }
+                    ]
+                },
+                {
+                    "id":4,
+                    "type":"市场与销售",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                },
+                {
+                    "id":5,
+                    "type":"职能",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                },
+                {
+                    "id":6,
+                    "type":"金融",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                }
+            ]
+        },
+        {
+            "companyId":12,
+            "companyName":"杏树林",
+            "city":"北京",
+            "companyLogo":"CgpFT1k2cu-Ae5eNAAEDTPHkf_A479.jpg",
+            "companyDesc":"移动互联网,医疗健康 / C轮 / 150-500人",
+            "jobCategory":[
+                {
+                    "id":0,
+                    "type":"技术",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":85,
+                            "jobName":"Android高级开发工程师",
+                            "salary":"20k-35k",
+                            "time":"今天 20:48"
+                        },
+                        {
+                            "jobId":86,
+                            "jobName":"移动端负责人",
+                            "salary":"35k-50k",
+                            "time":"今天 20:48"
+                        }
+                    ]
+                },
+                {
+                    "id":1,
+                    "type":"产品",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":87,
+                            "jobName":"售前",
+                            "salary":"20k-30k",
+                            "time":"今天 20:48"
+                        },
+                        {
+                            "jobId":88,
+                            "jobName":"项目实习生",
+                            "salary":"2k-4k",
+                            "time":"今天 18:58"
+                        }
+                    ]
+                },
+                {
+                    "id":2,
+                    "type":"设计",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                },
+                {
+                    "id":3,
+                    "type":"运营",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":89,
+                            "jobName":"医学内容运营",
+                            "salary":"4k-8k",
+                            "time":"今天 20:48"
+                        },
+                        {
+                            "jobId":90,
+                            "jobName":"数据分析师",
+                            "salary":"15k-20k",
+                            "time":"今天 20:48"
+                        }
+                    ]
+                },
+                {
+                    "id":4,
+                    "type":"市场与销售",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":91,
+                            "jobName":"公关经理",
+                            "salary":"10k-20k",
+                            "time":"今天 20:48"
+                        },
+                        {
+                            "jobId":92,
+                            "jobName":"大客户销售",
+                            "salary":"8k-16k",
+                            "time":"今天 20:48"
+                        }
+                    ]
+                },
+                {
+                    "id":5,
+                    "type":"职能",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":93,
+                            "jobName":"HRBP",
+                            "salary":"10k-20k",
+                            "time":"今天 20:48"
+                        },
+                        {
+                            "jobId":94,
+                            "jobName":"人力资源实习生（招聘方向）",
+                            "salary":"2k-4k",
+                            "time":"今天 18:58"
+                        }
+                    ]
+                },
+                {
+                    "id":6,
+                    "type":"金融",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                }
+            ]
+        },
+        {
+            "companyId":13,
+            "companyName":"上海繁易科技",
+            "city":"上海",
+            "companyLogo":"CgqKkVcF8nWAEAZEAAARs-jOb5o066.jpg",
+            "companyDesc":"移动互联网,硬件 / 不需要融资 / 150-500人",
+            "jobCategory":[
+                {
+                    "id":0,
+                    "type":"技术",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":95,
+                            "jobName":"asp.net软件开发工程师",
+                            "salary":"15k-20k",
+                            "time":"今天 13:06"
+                        },
+                        {
+                            "jobId":96,
+                            "jobName":"嵌入式软件开发工程师",
+                            "salary":"12k-18k",
+                            "time":"今天 13:06"
+                        }
+                    ]
+                },
+                {
+                    "id":1,
+                    "type":"产品",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                },
+                {
+                    "id":2,
+                    "type":"设计",
+                    "num":1,
+                    "typelist":[
+                        {
+                            "jobId":97,
+                            "jobName":"视觉设计师--实习生",
+                            "salary":"3k-6k",
+                            "time":"今天 13:06"
+                        }
+                    ]
+                },
+                {
+                    "id":3,
+                    "type":"运营",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                },
+                {
+                    "id":4,
+                    "type":"市场与销售",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                },
+                {
+                    "id":5,
+                    "type":"职能",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                },
+                {
+                    "id":6,
+                    "type":"金融",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                }
+            ]
+        },
+        {
+            "companyId":14,
+            "companyName":"枫帝科技公司",
+            "city":"深圳",
+            "companyLogo":"CgqKkVcOUaSABGwxAAATufjBNUA853.jpg",
+            "companyDesc":"O2O,生活服务 / 未融资 / 15-50人",
+            "jobCategory":[
+                {
+                    "id":0,
+                    "type":"技术",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":98,
+                            "jobName":"android工程师",
+                            "salary":"7k-12k",
+                            "time":"今天 12:55"
+                        },
+                        {
+                            "jobId":99,
+                            "jobName":"iOS",
+                            "salary":"6k-10k",
+                            "time":"今天 12:55"
+                        }
+                    ]
+                },
+                {
+                    "id":1,
+                    "type":"产品",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                },
+                {
+                    "id":2,
+                    "type":"设计",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                },
+                {
+                    "id":3,
+                    "type":"运营",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                },
+                {
+                    "id":4,
+                    "type":"市场与销售",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                },
+                {
+                    "id":5,
+                    "type":"职能",
+                    "num":1,
+                    "typelist":[
+                        {
+                            "jobId":100,
+                            "jobName":"前台文员",
+                            "salary":"3k-5k",
+                            "time":"今天 12:55"
+                        }
+                    ]
+                },
+                {
+                    "id":6,
+                    "type":"金融",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                }
+            ]
+        },
+        {
+            "companyId":15,
+            "companyName":"circle",
+            "city":"杭州",
+            "companyLogo":"Cgp3O1hRBnKAGLqPAAHaHdWnPcw298.png",
+            "companyDesc":"电子商务,企业服务 / A轮 / 15-50人",
+            "jobCategory":[
+                {
+                    "id":0,
+                    "type":"技术",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":101,
+                            "jobName":"架构师",
+                            "salary":"18k-35k",
+                            "time":"今天 12:44"
+                        },
+                        {
+                            "jobId":102,
+                            "jobName":"JAVA研发工程师",
+                            "salary":"8k-15k",
+                            "time":"今天 12:44"
+                        }
+                    ]
+                },
+                {
+                    "id":1,
+                    "type":"产品",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                },
+                {
+                    "id":2,
+                    "type":"设计",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":103,
+                            "jobName":"视觉平面设计师",
+                            "salary":"7k-12k",
+                            "time":"今天 12:44"
+                        },
+                        {
+                            "jobId":104,
+                            "jobName":"资深UI设计师",
+                            "salary":"12k-20k",
+                            "time":"今天 12:44"
+                        }
+                    ]
+                },
+                {
+                    "id":3,
+                    "type":"运营",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":105,
+                            "jobName":"海外英语客服",
+                            "salary":"5k-7k",
+                            "time":"今天 12:44"
+                        },
+                        {
+                            "jobId":106,
+                            "jobName":"海外英语非技术支持",
+                            "salary":"5k-8k",
+                            "time":"今天 12:44"
+                        }
+                    ]
+                },
+                {
+                    "id":4,
+                    "type":"市场与销售",
+                    "num":1,
+                    "typelist":[
+                        {
+                            "jobId":107,
+                            "jobName":"市场经理",
+                            "salary":"10k-20k",
+                            "time":"今天 12:44"
+                        }
+                    ]
+                },
+                {
+                    "id":5,
+                    "type":"职能",
+                    "num":1,
+                    "typelist":[
+                        {
+                            "jobId":108,
+                            "jobName":"人事经理",
+                            "salary":"10k-15k",
+                            "time":"今天 12:44"
+                        }
+                    ]
+                },
+                {
+                    "id":6,
+                    "type":"金融",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                }
+            ]
+        },
+        {
+            "companyId":16,
+            "companyName":"现金侠",
+            "city":"上海",
+            "companyLogo":"CgqKkVi2bsiAL0gdAAA1DeosCKw610.png",
+            "companyDesc":"移动互联网,金融 / 不需要融资 / 150-500人",
+            "jobCategory":[
+                {
+                    "id":0,
+                    "type":"技术",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":109,
+                            "jobName":"C++客户端程序员（UE4）",
+                            "salary":"12k-24k",
+                            "time":"今天 12:40"
+                        },
+                        {
+                            "jobId":110,
+                            "jobName":"资深运维工程师",
+                            "salary":"14k-28k",
+                            "time":"今天 12:40"
+                        }
+                    ]
+                },
+                {
+                    "id":1,
+                    "type":"产品",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":111,
+                            "jobName":"前端产品经理",
+                            "salary":"12k-24k",
+                            "time":"今天 12:40"
+                        },
+                        {
+                            "jobId":112,
+                            "jobName":"数据产品经理",
+                            "salary":"18k-35k",
+                            "time":"今天 12:40"
+                        }
+                    ]
+                },
+                {
+                    "id":2,
+                    "type":"设计",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":113,
+                            "jobName":"游戏音效",
+                            "salary":"10k-20k",
+                            "time":"今天 12:40"
+                        },
+                        {
+                            "jobId":114,
+                            "jobName":"3D游戏模型师",
+                            "salary":"13k-26k",
+                            "time":"今天 12:40"
+                        }
+                    ]
+                },
+                {
+                    "id":3,
+                    "type":"运营",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":115,
+                            "jobName":"棋牌游戏运营",
+                            "salary":"9k-15k",
+                            "time":"今天 12:40"
+                        },
+                        {
+                            "jobId":116,
+                            "jobName":"社区内容运营",
+                            "salary":"5k-9k",
+                            "time":"今天 12:40"
+                        }
+                    ]
+                },
+                {
+                    "id":4,
+                    "type":"市场与销售",
+                    "num":2,
+                    "typelist":[
+                        {
+                            "jobId":117,
+                            "jobName":"高级优化师",
+                            "salary":"12k-24k",
+                            "time":"今天 12:40"
+                        },
+                        {
+                            "jobId":118,
+                            "jobName":"APP渠道推广经理",
+                            "salary":"8k-16k",
+                            "time":"今天 12:40"
+                        }
+                    ]
+                },
+                {
+                    "id":5,
+                    "type":"职能",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                },
+                {
+                    "id":6,
+                    "type":"金融",
+                    "num":0,
+                    "typelist":[
+
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+	"errno" : 0,
+	"data" : [
+                    {
+                        "positionId":76,
+                        "positionName":"全栈开发工程师",
+                        "city":"北京",
+                        "createTime":"昨天 16:33",
+                        "salary":"15k-30k",
+                        "companyId":10,
+                        "companyLogo":"CgpFT1l27DWAOyAaAAAbCHGmUwo587.gif",
+                        "companyName":"正麟殿"
+                    },
+                    {
+                        "positionId":84,
+                        "positionName":"新媒体文案",
+                        "city":"广州",
+                        "createTime":"昨天 16:22",
+                        "salary":"4k-7k",
+                        "companyId":11,
+                        "companyLogo":"CgpEMlkSjN-ACz8-AAAlg08Jx9o903.jpg",
+                        "companyName":"广州个品网络科技有限公司"
+                    },
+                    {
+                        "positionId":85,
+                        "positionName":"Android高级开发工程师",
+                        "city":"北京",
+                        "createTime":"今天 20:48",
+                        "salary":"20k-35k",
+                        "companyId":12,
+                        "companyLogo":"CgpFT1k2cu-Ae5eNAAEDTPHkf_A479.jpg",
+                        "companyName":"杏树林"
+                    },
+                    {
+                        "positionId":94,
+                        "positionName":"人力资源实习生（招聘方向）",
+                        "city":"北京",
+                        "createTime":"今天 18:58",
+                        "salary":"2k-4k",
+                        "companyId":12,
+                        "companyLogo":"CgpFT1k2cu-Ae5eNAAEDTPHkf_A479.jpg",
+                        "companyName":"杏树林"
+                    },
+                    {
+                        "positionId":95,
+                        "positionName":"asp.net软件开发工程师",
+                        "city":"上海",
+                        "createTime":"今天 13:06",
+                        "salary":"15k-20k",
+                        "companyId":13,
+                        "companyLogo":"CgqKkVcF8nWAEAZEAAARs-jOb5o066.jpg",
+                        "companyName":"上海繁易科技"
+                    },
+                    {
+                    	"positionId":100,
+                        "positionName":"前台文员",
+                        "city":"深圳",
+                        "createTime":"今天 12:55",
+                        "salary":"3k-5k",
+                        "companyId":14,
+                        "companyLogo":"CgqKkVcOUaSABGwxAAATufjBNUA853.jpg",
+                        "companyName":"枫帝科技公司"
+                    },
+                    {
+                    	"positionId":103,
+                        "positionName":"视觉平面设计师",
+                        "city":"杭州",
+                        "createTime":"今天 12:44",
+                        "salary":"7k-12k",
+                        "companyId":15,
+                        "companyLogo":"Cgp3O1hRBnKAGLqPAAHaHdWnPcw298.png",
+                        "companyName":"circle"
+                    },
+                    {
+                    	"positionId":106,
+                        "positionName":"海外英语非技术支持",
+                        "city":"杭州",
+                        "createTime":"今天 12:44",
+                        "salary":"5k-8k",
+                        "companyId":15,
+                        "companyLogo":"Cgp3O1hRBnKAGLqPAAHaHdWnPcw298.png",
+                        "companyName":"circle"
+                    },
+                    {
+                    	"positionId":109,
+                        "positionName":"C++客户端程序员（UE4）",
+                        "city":"上海",
+                        "createTime":"今天 12:40",
+                        "salary":"12k-24k",
+                        "companyId":16,
+                        "companyLogo":"CgqKkVi2bsiAL0gdAAA1DeosCKw610.png",
+                        "companyName":"现金侠"
+                    },
+                    {
+                    	"positionId":114,
+                        "positionName":"3D游戏模型师",
+                        "city":"上海",
+                        "createTime":"今天 12:40",
+                        "salary":"13k-26k",
+                        "companyId":16,
+                        "companyLogo":"CgqKkVi2bsiAL0gdAAA1DeosCKw610.png",
+                        "companyName":"现金侠"
+                    }
+	]
+}

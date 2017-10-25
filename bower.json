@@ -1,0 +1,27 @@
+{
+  "name": "AngularLagou",
+  "authors": [
+    "hvf <2431131567@qq.com>"
+  ],
+  "description": "interview_work1",
+  "main": "",
+  "keywords": [
+    "angular",
+    "lagou"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.4.1",
+    "angular-ui-router": "1.0.6",
+    "angular-sanitize": "^1.6.6",
+    "angular-cookies": "^1.6.6"
+  }
+}

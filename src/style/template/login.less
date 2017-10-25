@@ -1,0 +1,94 @@
+.login-body{
+	width: 100%;
+	height: 100%;
+	background: -webkit-linear-gradient(135deg,#029253,#00887b);
+	font-family: '黑体';
+	.login-form{
+		width: 90%;
+		padding: 20px 0;
+		margin: 0 auto;
+		.btn{
+			width: 90%;
+			border: 0;
+			outline: 0;
+			font: 16px '黑体';
+			color: @textColor1;
+			background: @defaultColor;
+			padding: 6% 5%;
+		}
+		.tips{
+			position: absolute;
+		    right: 5%;
+		    top: 36%;
+		   	.fs(12);
+		    color: @tipsColor;
+		    .lh(14.4);
+		}
+		.username{
+			position: relative;
+			.phone{
+				border-bottom: 1px solid @borderBottomColor;
+			}
+			.top{
+		    	border-top-left-radius: 5px;
+		    	border-top-right-radius: 5px;
+			}
+		}		
+				
+		.password{
+			position: relative;
+			.eye{
+				width: 20px;
+				height: 13px;
+				background:  url(../image/eye.png) 0 0 no-repeat;
+				background-size: 20px 30px;
+				position: absolute;
+				right: 5%;
+				top: 50%;
+				margin-top: -6.5px;
+				-webkit-transition : transform .3s linear 0s;
+			}
+			.oneye{
+				background:  url(../image/eye.png) 0 -16px no-repeat;
+				background-size: 20px 30px;
+				-webkit-transition : scale(1.1,1.1);
+				transform: scale(1.1,1.1);
+			}
+			.btm{
+				border-bottom-left-radius: 5px;
+		    	border-bottom-right-radius: 5px;
+			}
+			.tips{
+				right: 20%;
+			}
+		}
+		.submit{
+			display: block;
+			width: 100%;
+			.fs(20);
+			color: @defaultColor;
+			text-align: center;
+			background: @bgColor8 ;
+			box-shadow: 0 2px 0 @bgColor9;
+			border-radius: 5px;
+			margin: 20px 0;
+			padding: 5%;
+		}
+		.register-text{
+			color: @textColor8;
+			.fs(13);
+			.lh(16);
+		}
+		.logon{
+			display: block;
+			width: 90%;
+			.fs(20);
+			color: @textColor8;
+			text-align: center;
+			border: 1px solid @textColor8;
+			border-radius: 5px;
+			margin: 8px 0;
+			padding: 5%;
+		}	
+	}
+}

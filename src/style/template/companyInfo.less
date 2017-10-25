@@ -1,0 +1,71 @@
+
+.company{
+		padding: 15px;
+		border-bottom: 1px solid @borderTopColor;
+		img{
+			width: 60px;
+			height: 60px;
+			float: left;
+		}
+		.desc{
+			margin-left: 70px;
+			.dleft{
+				float: left;
+				max-width: 80%;
+				.title{
+					color: @themeColor;
+					.fs(18.864);
+					text-overflow: ellipsis;
+					white-space: nowrap;
+					overflow: hidden;
+					margin-bottom: 5px;
+				}
+				h2{
+					.title;
+				}
+				h3{
+					.title;
+					color: @textColor1;
+					font-weight: normal;
+				}
+				.city{
+					.fs(12.576);
+					color : @textColor1;
+					text-overflow: ellipsis;
+					white-space: nowrap;
+					overflow: hidden;
+					margin-bottom: 6px;
+					.icon{
+						width: 9px;
+						height: 12px;
+						display: inline-block;
+						background:  url(../image/icon2.png) -93px -23px no-repeat;
+						background-size: 250px 250px;
+					}
+					.text{
+						position: relative;
+						left: 2px;
+						top: -2px;
+					}
+				}
+				.info{
+					color: @textColor4;
+					.fs(12.576);
+				}
+				.textStyle{
+					text-overflow: ellipsis;
+					white-space: nowrap;
+					overflow: hidden;
+				}
+			}
+			.dright{
+				float: right;
+				display: inline-block;
+				width: 27.5px;
+				height: 29px;
+				background:  url(../image/icon2.png) -222.5px -3.5px no-repeat;
+				background-size: 250px 250px;
+				margin-top: 10px;
+			}
+		}
+	}

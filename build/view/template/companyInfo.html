@@ -1,0 +1,15 @@
+<div class="company clearfix" ui-sref="company({id:com.companyId})">
+	<img src="image/companyLogo/{{com.companyLogo}}">
+	<div class="desc clearfix">
+		<div class="dleft">
+			<h2 ng-if="ds.bol" ng-bind = "com.companyName"></h2>
+			<h3 ng-if="!ds.bol" ng-bind = "com.companyName"></h3>
+			<p class="city" ng-if="!ds.bol">
+				<em class="icon"></em>
+				<span class="text" ng-bind = "com.city"></span>
+			</p>
+			<p class="info" ng-class = "ds.ts" ng-bind = "com.companyDesc"></p>
+		</div>
+		<span class="dright"></span>
+	</div>
+</div>

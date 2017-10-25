@@ -1,0 +1,99 @@
+.posInfo{
+	.posTitle{
+		.h(48);
+		.lh(48);
+		padding: 0 15px;
+		border-bottom: 1px solid @borderTopColor;
+		.title{
+			color: @textColor1;
+			float: left;
+			.fs(18.864);
+			max-width: 70%;
+			text-overflow: ellipsis;
+			white-space: nowrap;
+			overflow: hidden;
+		}
+		.collection{
+			float: right;
+			height: 42px;
+			padding: 6px 10px 0;
+			.collIcon{
+				display: block;
+				height: 19px;
+				width: 20px;
+				margin: 0 auto;
+				background:  url(../image/icon.png) -182px -8px no-repeat;
+				background-size: 250px 250px;
+			}
+			.collText{
+				line-height: 23px;
+				display: block;
+				.fs(12);
+				color: @textColor4;
+			}
+		}
+	}
+	.posDetail{
+		border-bottom: 1px solid @borderTopColor;
+		padding: 15px;
+		.items{
+			.item{
+				width: 33.3%;
+				color : @textColor1;
+				.fs(14.672);
+				text-overflow: ellipsis;
+				white-space: nowrap;
+				overflow: hidden;
+				float: left;
+				margin-bottom: 11px;
+				&:nth-child(3n-1){
+					text-align: center;
+				}
+				&:nth-child(3n){
+					text-align: right;
+				}
+			}
+			.icon{
+				width: 13px;
+				height: 13px;
+				display: inline-block;
+				vertical-align: middle;
+			}
+			.salary{
+				.icon{
+					background:  url(../image/icon2.png) -66.5px -48px no-repeat;
+					background-size: 250px 250px;
+				}
+			}
+			.city{
+				.icon{
+					background:  url(../image/icon2.png) -79px -49px no-repeat;
+					background-size: 250px 250px;
+				}
+			}
+			.jobnature{
+				.icon{
+					background:  url(../image/icon2.png) -93px -49px no-repeat;
+					background-size: 250px 250px;
+				}
+			}
+			.workyear{
+				.icon{
+					background:  url(../image/icon2.png) -110.5px -49.5px no-repeat;
+					background-size: 250px 250px;
+				}
+			}
+			.education{
+				.icon{
+					background:  url(../image/icon2.png) -127.5px -50px no-repeat;
+					background-size: 250px 250px;
+				}
+			}
+		}
+		.temptation{
+			color: @textColor4;
+			.fs(13.624);
+			word-break: break-all;
+		}
+	}
+}

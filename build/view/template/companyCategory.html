@@ -1,0 +1,17 @@
+<div class="companyCategory">
+	<div class="postype">
+		<div class="typehead">职位分类</div>
+		<div class="typecontent clearfix">
+			<div ng-click = "showTypeList(item.id)" class="ritem" ng-repeat = "item in com.jobCategory" ng-bind="item.type" ng-class="{disabled :item.num == 0,selected : item.id == isActive}"></div>
+		</div>
+	</div>
+	<ul class="typelist">
+		<li class="titem clearfix" ng-repeat = "item in typelist">
+			<div class="left">
+				<h3 class="name" ng-bind = "item.jobName"></h3>
+				<p class="time" ng-bind = "item.time"></p>
+			</div>
+			<div class="right" ng-bind = "item.salary"></div>
+		</li>
+	</ul>
+</div>

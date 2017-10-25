@@ -1,0 +1,39 @@
+.headBar{
+	background: @themeColor;
+	.h(45);
+	.lh(45);
+	color : @defaultColor;
+	text-align: center;
+	.fs(18.864);
+	position: relative;
+	.pos{
+		position: absolute;
+		top: 0;
+		width: 40px;
+		height: 100%;
+	}
+	.left{
+		.pos;
+		left: 0;
+		.arrow{
+			width: 9px;
+			height: 17px;
+			background:  url(../image/icon.png) -0.5px -20px no-repeat;
+			background-size: 250px 250px;
+			display: inline-block;
+			margin: 14px auto;
+		}
+	}
+	.right{
+		.pos;
+		right: 0;
+		.goHome{
+			width: 17px;
+			height: 17px;
+			background:  url(../image/icon.png) -60px -46.5px no-repeat;
+			background-size: 250px 250px;
+			display: inline-block;
+			margin: 14px auto;
+		}
+	}
+}

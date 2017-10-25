@@ -1,0 +1,72 @@
+.companyCategory{
+	.postype{
+		padding: 15px;
+		border-bottom: 1px solid @borderTopColor;
+		.typehead{
+			.fs(14.672);
+			color: @textColor3;
+			margin-bottom: 15px;
+		}
+		.typecontent{
+			.ritem{
+				float: left;
+				width: 32%;
+				margin-right: 5px;
+				.h(41);
+				.lh(41);
+				color: @themeColor;
+				background: @bgColor3;
+				.fs(16.768);
+				text-align: center;
+				border-radius: 20px;
+				margin-bottom: 5px;
+				&:nth-child(3n+3){
+					margin-right: 0;
+				}
+			}
+			.disabled{
+				color: @textColor5;
+			}
+			.selected{
+				background: @themeColor;
+				color: @defaultColor;
+			}		
+		}
+	}
+	.typelist{
+		.titem{
+			.h(45);
+			border-bottom: 1px solid @borderTopColor;
+			padding: 15px;
+			.left{
+				float: left;
+				width: 65%;
+				overflow: hidden;
+				text-overflow: ellipsis;
+				white-space: nowrap;
+				.name{
+					font-weight: normal;
+					color: @textColor1;
+					.fs(16.768);
+					padding-top: 4px;
+				}
+				.time{
+					margin-top: 5px;
+					.fs(12);
+					color: @textColor4;
+				}
+			}
+			.right{
+				float: right;
+				width: 35%;
+				text-align: center;
+				overflow: hidden;
+				text-overflow: ellipsis;
+				white-space: nowrap;
+				color: @themeColor;
+				.fs(17.816);
+				.lh(45);
+			}
+		}
+	}
+}
